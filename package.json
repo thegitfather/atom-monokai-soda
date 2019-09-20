@@ -1,7 +1,7 @@
 {
   "name": "atom-monokai-soda",
   "theme": "syntax",
-  "version": "3.0.1",
+  "version": "0.0.0",
   "description": "Converted from the original buymesoda theme using the TextMate Bundle Converter.",
   "keywords": [
     "syntax",
@@ -9,9 +9,9 @@
     "monokai soda",
     "atom soda"
   ],
-  "repository": "https://github.com/SH128/atom-monokai-soda",
+  "repository": "https://github.com/thegitfather/atom-monokai-soda",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.4.0"
   }
 }
